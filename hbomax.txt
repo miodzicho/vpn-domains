@@ -26,3 +26,6 @@ hbo.com.edgesuite.net
 hbo.map.fastly.net
 hbomax-images.warnermediacdn.com
 hbomaxdash.s.llnwi.net
+hbo.pl
+hbogo.eu
+discomax.com
